@@ -1,8 +1,6 @@
 {
     "/js/app.js": "/js/app.js",
-    "/js/hello_ajax.js": "/js/hello_ajax.js",
-    "/js/test.js": "/js/test.js",
-    "/js/hello_vuejs.js": "/js/hello_vuejs.js",
+    "/js/worldcup.js": "/js/worldcup.js",
     "/js/bootstrap.js": "/js/bootstrap.js",
     "/css/app.css": "/css/app.css"
 }
